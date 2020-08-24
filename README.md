@@ -4,5 +4,5 @@
 # Node.js modules used
  Filesystem,
  Path
-# external packages used
- Chalk 
+# External packages used
+ npm Chalk 
