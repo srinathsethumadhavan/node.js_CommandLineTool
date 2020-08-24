@@ -11,10 +11,10 @@
  Running Node.js program as an Executable means we do not have to go to the program directory, from anywhere in the terminal, we can execute our program with a specific self-registered word.
 There are four steps to follow to run a node.js program as Executable.
 
-Add bin section in package.json
-Change index.js file permission (not for windows operating system).
-Add comment to index.js file to allow it to be treated like an executable.
-Link the project.
+# Add bin section in package.json
+# Change index.js file permission (not for windows operating system).
+# Add comment to index.js file to allow it to be treated like an executable.
+# Link the project.
 
 
 Adding bin section in package.json file:
